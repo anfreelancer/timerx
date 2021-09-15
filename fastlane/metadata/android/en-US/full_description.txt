@@ -1,0 +1,3 @@
+Time +X allows you to create a list of predefined alarm increments.
+
+Touching a predefined alarm creates a new alarm on your default clock app. The predefined alarms are also available as app shortcuts.

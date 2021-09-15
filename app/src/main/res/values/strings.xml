@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Timer +X Smart</string>
+    <string name="buy">BUY</string>
+    <string name="premium">Premium</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="txt_no_alarm_app">Timer +X uses the default Alarm App from your device to set its alarms.\nYou don\'t have any compatible alarm app.\nGo to Play Store and search for some of them.</string>
+    <string name="install_google_s_clock">Install Google\'s Clock</string>
+    <string name="no_timers_created">No timers created</string>
+    <string name="title_select_duration">Select timer duration</string>
+    <string name="delete">delete</string>
+    <string name="about">About</string>
+    <string name="text_about">Source code available at https://gitlab.com/humbertofraga/timerx.</string>
+    <string name="version_name">Version %s</string>
+    <string name="add_new_timer">Add new timer</string>
+
+</resources>
